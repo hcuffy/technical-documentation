@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hcuffy/technical-documentation/issues"
   },
-  "homepage": "https://github.com/hcuffy/technical-documentation#readme"
+  "homepage": "https://github.com/hcuffy/technical-documentation#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
