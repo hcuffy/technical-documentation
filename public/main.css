@@ -1,0 +1,15 @@
+body {
+  background-color: #dce8ea;
+}
+
+.navbar {
+  width: 300px;
+  height: 100%;
+  float: left;
+}
+
+@media only screen and (max-width: 300px) {
+  body {
+    background-color: #8dbac1;
+  }
+}
